@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16.891" height="15.356" viewBox="0 0 16.891 15.356">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="16.891" height="15.356" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="14" height="14" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Combined_Shape" data-name="Combined Shape" d="M.293,13.707a1,1,0,0,1,0-1.414L10.586,2H4A1,1,0,1,1,4,0h9a1,1,0,0,1,.4.083h0l.021.009,0,0L13.44.1l.008,0,.013.007.01.005.01.005.013.007.008,0,.014.008.007,0,.015.009.005,0,.015.01,0,0,.015.011,0,0L13.6.2,13.6.2l.014.011.006,0,.013.01.007.006.011.009.009.008.009.008.012.011.006.005L13.7.29l0,0h0q.027.027.052.056h0l.016.019h0l.015.019h0A1,1,0,0,1,14,1v9a1,1,0,0,1-2,0V3.415L1.707,13.707a1,1,0,0,1-1.415,0Z" transform="translate(5 5)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="briefcase" clip-path="url(#clip-path)">
+    <g id="arrow-up-right" transform="translate(1 0.356)" clip-path="url(#clip-path-2)">
+      <path id="Combined_Shape-2" data-name="Combined Shape" d="M.293,13.707a1,1,0,0,1,0-1.414L10.586,2H4A1,1,0,1,1,4,0h9a1,1,0,0,1,.4.083h0l.021.009,0,0L13.44.1l.008,0,.013.007.01.005.01.005.013.007.008,0,.014.008.007,0,.015.009.005,0,.015.01,0,0,.015.011,0,0L13.6.2,13.6.2l.014.011.006,0,.013.01.007.006.011.009.009.008.009.008.012.011.006.005L13.7.29l0,0h0q.027.027.052.056h0l.016.019h0l.015.019h0A1,1,0,0,1,14,1v9a1,1,0,0,1-2,0V3.415L1.707,13.707a1,1,0,0,1-1.415,0Z" transform="translate(0)" fill="#fff"/>
+      <g transform="translate(-5 -5)" clip-path="url(#clip-path-3)">
+        <g id="COLOR_black" data-name="COLOR/ black" clip-path="url(#clip-path-4)">
+          <rect id="Rectangle" width="24" height="24" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg id="check-circle" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="12" viewBox="0 0 12 12">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Combined_Shape" data-name="Combined Shape" d="M.925,9.265A6.216,6.216,0,0,1,1.376,2.1,5.573,5.573,0,0,1,8.075.52a.555.555,0,0,1,.264.72.513.513,0,0,1-.689.276A4.558,4.558,0,0,0,2.17,2.811,5.086,5.086,0,0,0,1.8,8.672a4.6,4.6,0,0,0,5.271,2.035A4.884,4.884,0,0,0,10.435,6V5.5a.522.522,0,1,1,1.044,0V6a5.971,5.971,0,0,1-4.112,5.75A5.5,5.5,0,0,1,5.739,12,5.681,5.681,0,0,1,.925,9.265ZM5.37,7.48,3.8,5.843a.563.563,0,0,1,0-.772.507.507,0,0,1,.738,0l1.2,1.251L11.109.709a.506.506,0,0,1,.738,0,.563.563,0,0,1,0,.771l-5.739,6a.506.506,0,0,1-.738,0Z" transform="translate(0 0)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="12.522" height="13.091" fill="none"/>
+    </clipPath>
+  </defs>
+  <g transform="translate(0 0)" clip-path="url(#clip-path)">
+    <g id="COLOR_black" data-name="COLOR/ black" transform="translate(0 -0.546)" clip-path="url(#clip-path-2)">
+      <rect id="Rectangle" width="12.522" height="13.091" fill="#fff"/>
+    </g>
+  </g>
+</svg>

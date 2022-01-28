@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61.49" height="61.541" viewBox="0 0 61.49 61.541">
+  <g id="file" transform="translate(-0.211)">
+    <path id="Path_5368" data-name="Path 5368" d="M32.235,0H2.773A2.569,2.569,0,0,0,.211,2.562V58.923a2.569,2.569,0,0,0,2.562,2.562H43.891a2.569,2.569,0,0,0,2.562-2.562V14.09Z" transform="translate(0)" fill="#fff"/>
+    <g id="Group_11703" data-name="Group 11703" transform="translate(5.591)">
+      <path id="Path_5369" data-name="Path 5369" d="M266.878,11.528a2.569,2.569,0,0,0,2.562,2.562h11.529L266.878,0Z" transform="translate(-240.235)" fill="#e1e1e1"/>
+      <rect id="Rectangle_1439" data-name="Rectangle 1439" width="35.482" height="3.202" transform="translate(0 29.205)" fill="#e1e1e1"/>
+      <rect id="Rectangle_1440" data-name="Rectangle 1440" width="35.482" height="3.202" transform="translate(0 38.812)" fill="#e1e1e1"/>
+      <rect id="Rectangle_1441" data-name="Rectangle 1441" width="17.165" height="3.202" transform="translate(0 48.548)" fill="#e1e1e1"/>
+      <rect id="Rectangle_1442" data-name="Rectangle 1442" width="35.482" height="3.202" transform="translate(0 19.47)" fill="#e1e1e1"/>
+    </g>
+    <rect id="Rectangle_1443" data-name="Rectangle 1443" width="20.367" height="3.202" transform="translate(5.591 9.735)" fill="#ffd15c"/>
+    <g id="Group_11704" data-name="Group 11704" transform="translate(17.376 17.165)">
+      <rect id="Rectangle_1444" data-name="Rectangle 1444" width="5.892" height="4.099" transform="translate(32.978 28.876) rotate(135)" fill="#40596b"/>
+      <circle id="Ellipse_30" data-name="Ellipse 30" cx="17.421" cy="17.421" r="17.421" fill="#40596b"/>
+    </g>
+    <circle id="Ellipse_31" data-name="Ellipse 31" cx="13.322" cy="13.322" r="13.322" transform="translate(21.475 21.264)" fill="#84dbff"/>
+    <path id="Path_5370" data-name="Path 5370" d="M392.84,384.133l-8.454-6.533-5.508,5.508,6.533,8.454.128.128,7.3-7.557Z" transform="translate(-333.194 -332.255)" fill="#ffd15c"/>
+    <path id="Path_5371" data-name="Path 5371" d="M440.836,433.067l-7.558,7.557a5.33,5.33,0,0,0,7.942.384A5.429,5.429,0,0,0,440.836,433.067Z" transform="translate(-381.061 -381.061)" fill="#ff7058"/>
+  </g>
+</svg>

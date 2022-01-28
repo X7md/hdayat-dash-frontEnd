@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13.001" height="13.531" viewBox="0 0 13.001 13.531">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="13.001" height="13.531" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Combined_Shape" data-name="Combined Shape" d="M5.7,13.348l-4.729-2.3A1.731,1.731,0,0,1,0,9.5V4.024A1.711,1.711,0,0,1,.983,2.481L5.711.18a1.818,1.818,0,0,1,1.578,0l4.727,2.3A1.712,1.712,0,0,1,13,4.025V9.5a1.71,1.71,0,0,1-.983,1.543l-4.727,2.3a1.816,1.816,0,0,1-1.586,0ZM1.182,9.5a.577.577,0,0,0,.323.517l4.4,2.142V6.542l-4.727-2.3Zm5.909,2.657,4.4-2.141a.569.569,0,0,0,.328-.514V4.242l-4.727,2.3ZM6.5,5.544l4.585-2.231L6.763,1.21a.6.6,0,0,0-.524,0l-4.323,2.1Z" transform="translate(0)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect width="14.182" height="13.8" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="box" clip-path="url(#clip-path)">
+    <path id="Combined_Shape-2" data-name="Combined Shape" d="M5.7,13.348l-4.729-2.3A1.731,1.731,0,0,1,0,9.5V4.024A1.711,1.711,0,0,1,.983,2.481L5.711.18a1.818,1.818,0,0,1,1.578,0l4.727,2.3A1.712,1.712,0,0,1,13,4.025V9.5a1.71,1.71,0,0,1-.983,1.543l-4.727,2.3a1.816,1.816,0,0,1-1.586,0ZM1.182,9.5a.577.577,0,0,0,.323.517l4.4,2.142V6.542l-4.727-2.3Zm5.909,2.657,4.4-2.141a.569.569,0,0,0,.328-.514V4.242l-4.727,2.3ZM6.5,5.544l4.585-2.231L6.763,1.21a.6.6,0,0,0-.524,0l-4.323,2.1Z" transform="translate(0)" fill="#fff"/>
+    <g transform="translate(0)" clip-path="url(#clip-path-2)">
+      <g id="COLOR_black" data-name="COLOR/ black" transform="translate(-0.591)" clip-path="url(#clip-path-3)">
+        <rect id="Rectangle" width="14.182" height="13.8" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

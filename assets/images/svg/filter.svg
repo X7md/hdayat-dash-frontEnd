@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16.894" height="15.357" viewBox="0 0 16.894 15.357">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="16.894" height="15.357" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Shape" d="M9.982,15.357a.76.76,0,0,1-.343-.082L6.568,13.74a.765.765,0,0,1-.424-.687V8.312L.183,1.264a.761.761,0,0,1-.11-.82A.76.76,0,0,1,.769,0H16.125a.761.761,0,0,1,.7.445.761.761,0,0,1-.11.819L10.751,8.312v6.276A.77.77,0,0,1,9.982,15.357ZM2.424,1.535l5.074,6a.769.769,0,0,1,.181.5v4.547l1.535.768V8.031a.769.769,0,0,1,.182-.5l5.074-6Z" transform="translate(0 0)" fill="#2400aa"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect width="18.427" height="18.427" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="filter" clip-path="url(#clip-path)">
+    <path id="Shape-2" data-name="Shape" d="M9.982,15.357a.76.76,0,0,1-.343-.082L6.568,13.74a.765.765,0,0,1-.424-.687V8.312L.183,1.264a.761.761,0,0,1-.11-.82A.76.76,0,0,1,.769,0H16.125a.761.761,0,0,1,.7.445.761.761,0,0,1-.11.819L10.751,8.312v6.276A.77.77,0,0,1,9.982,15.357ZM2.424,1.535l5.074,6a.769.769,0,0,1,.181.5v4.547l1.535.768V8.031a.769.769,0,0,1,.182-.5l5.074-6Z" transform="translate(0 0)" fill="#2400aa"/>
+    <g clip-path="url(#clip-path-2)">
+      <g id="COLOR_black" data-name="COLOR/ black" transform="translate(-0.768 -1.536)" clip-path="url(#clip-path-3)">
+        <rect id="Rectangle" width="18.427" height="18.427" fill="#2400aa"/>
+      </g>
+    </g>
+  </g>
+</svg>
